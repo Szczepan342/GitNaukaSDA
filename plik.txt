@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Z w pliku.
+=======
+>>>>>>> parent of 609037c (Drugi commit testowy)
